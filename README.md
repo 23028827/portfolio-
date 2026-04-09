@@ -1,8 +1,8 @@
-#PROJECT NAME
+PROJECT NAME
 
 This a portfolio that decribes or tells you more about me
 
-##BUILT WITH 
+BUILT WITH 
 
 PROGRAMMING LANGUAGES(S)_- HTML AND CSS
 
